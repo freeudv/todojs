@@ -1,5 +1,5 @@
 class View {
-    constructor(presenter) {
-        this.presenter = presenter;
-    }
+  constructor(presenter) {
+    this.presenter = presenter;
+  }
 }
